@@ -1,0 +1,16 @@
+.float-right {
+  float: right;
+}
+
+.send-btn-width {
+  width: 100%;
+  min-height: 100px;
+}
+
+/* .input-height {
+  height: 75px;
+} */
+
+.input-width {
+  width: 490px;
+}

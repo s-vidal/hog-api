@@ -1,0 +1,18 @@
+.custon-input {
+  width: 100%;
+  min-height: 6vh;
+}
+
+.custom-button {
+  margin-left: -75.8px;
+  border: none;
+}
+
+input:focus {
+  outline: none;
+}
+
+input[type="text"] {
+  font-size: 22px;
+  padding-left: 10px;
+}

@@ -1,0 +1,21 @@
+.custom-nav {
+  align-items: center;
+  height: 70px;
+  padding: 0.5%;
+  font-size: 14px;
+  border-radius: 6px;
+  margin: 0 100px 0 100px;
+  color: white;
+  background-color: rgb(108, 117, 125);
+  min-height: 8vh;
+}
+
+.navbar-height {
+  min-height: 8vh;
+}
+
+.nav-text {
+  margin-left: 80px;
+  color: white;
+  font-size: 25px;
+}

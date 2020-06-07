@@ -1,0 +1,19 @@
+.student-row:hover {
+  text-decoration: none;
+}
+
+.student-li:hover {
+  border: 4px solid grey;
+  transform: translate(5px, 5px);
+  transition-duration: 0.3s;
+  z-index: 1;
+}
+
+.students-text {
+  font-size: 60px;
+}
+
+.student-li {
+  align-content: center;
+  min-height: 80px;
+}
